@@ -15,8 +15,9 @@ else{
     header("Location:php\login.php");
 }
 
-// include_once 'php\header.php';
-// include_once 'php\sidebar.php';
+include_once 'php\header.php';
+include_once 'php\sidebar.php';
+include_once 'php\dashboard.php';
 
 
 
